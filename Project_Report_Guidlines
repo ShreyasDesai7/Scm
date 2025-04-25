@@ -1,0 +1,171 @@
+Guidelines for Preparation of S.E. Project Report
+(Acknowledgement: Formatting guidelines of University of Mumbai are referred)
+
+🗂️ REPORT STRUCTURE
+1. Title & Cover Page
+(Refer Specimen A)
+
+2. Internal Approval or Certificate
+(Refer Specimen B)
+
+3. Approval or Certification
+(Refer Specimen C)
+
+4. Declaration
+(Refer Specimen D)
+
+5. Acknowledgements
+6. Abstract / Executive Summary
+7. Table of Contents
+8. List of Figures
+9. List of Tables
+10. List of Symbols and Abbreviations (if applicable)
+11. Introduction
+12. Body of the Project & Chapters
+(Problem statement, Literature survey, Implementation methodology, etc.)
+
+13. Experiments and Results
+14. Conclusion and Recommendations
+15. Future Scope
+16. References
+17. Appendix
+Includes:
+
+Paper publications (paper + certificate)
+
+Awards (if any)
+
+GitHub project link
+
+📝 FORMATTING GUIDELINES
+📄 Preliminary Pages (first ten): Roman numerals (i, ii, iii, iv...)
+
+📄 From Introduction onwards: Arabic numerals (1, 2, 3...)
+
+🔤 Font: Times New Roman, Size 12
+
+📐 Alignment: Justified
+
+📏 Line Spacing: 1.5 for main content, Single for captions
+
+📌 SECTION-WISE DETAILS
+🏷️ Title Page
+All text IN UPPERCASE
+
+No page number
+
+Must include:
+
+Project Title
+
+Course Name
+
+Student's Name & Roll Number
+
+Guide’s Name & Designation
+
+Organization Logo & Address
+
+✍️ Declaration & Approval
+Declaration:
+A personal statement by the student affirming sincere project completion
+(Must include student’s signature)
+
+Approval/Certification:
+Signed validation by:
+
+Head of Department
+
+Project Guide
+
+External Examiner
+
+🙏 Acknowledgement
+A brief and respectful thank-you note to all contributors and supporters of the project.
+
+📄 Abstract
+Length: 250–350 words
+
+Should cover:
+
+Objective & Aim
+
+Background context
+
+Methods used
+
+Summary of results
+
+Scope & methodologies implemented
+
+📚 Table of Contents / List of Figures / List of Tables
+Include headings up to three levels
+
+Use chapter-based numbering for figures/tables
+
+Symbols & Abbreviations – no need for page numbers
+
+🧠 MAIN BODY STRUCTURE
+📘 Chapter 1: Introduction
+Background overview
+
+Problem-solving methodology
+
+Summary of results
+
+Future scope
+
+Use minimal illustrations
+
+📖 Chapter 2: Literature Review
+Compare existing vs previous works
+
+Present currently used systems
+
+Include references to foreknowledge in the field
+
+🔍 Chapters 3–4/5: In-depth Project Work
+Content may include:
+
+Theoretical background
+
+Circuit/schematic design
+
+Software modules
+
+Simulation implementations
+
+Statistical analysis
+
+Results & findings
+
+Include:
+
+Flowcharts
+
+Diagrams
+
+Graphs
+
+Screenshots, etc.
+
+📌 Conclusion & Recommendations
+Summary of all key chapters
+
+Highlights of project achievements
+
+Suggestions to overcome constraints
+
+📚 References & Appendices
+Use standard citation formats (APA/IEEE etc.)
+
+Ensure plagiarism is below 20%
+
+Appendices:
+
+Font: Times New Roman
+
+Size: 10
+
+🎯 FINAL NOTE
+Ensure all visual content (charts, graphs, diagrams) are clear and of high resolution.
